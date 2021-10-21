@@ -1,1 +1,2 @@
 getElementById(id)
+selectAll()
